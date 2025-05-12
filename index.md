@@ -1,6 +1,6 @@
-## Portfolio
+## Jason Dayuha
 
-### Data Analysis Project
+### Data Analysis Projects
 ---
 
 [9-24-2024 Understanding the U.S. Economy and Real Estate Market (R)](https://JasonDayuha.github.io/U.S._Economy_and_Real_Estate_Market/Realty-and-Economics.html), [Project Repository](https://github.com/JasonDayuha/U.S._Economy_and_Real_Estate_Market.git)
