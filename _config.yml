@@ -1,14 +1,2 @@
 title: Jason A. Dayuha
 
-description: >
-  *  Google Data Analytics Certification from Coursera. <br>
-    *  Proficient in Excel, R Programming, SQLite, and Tableau. <br> 
-  *  BS Mechanical Engineering. <br>
-
-
-
-  
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
