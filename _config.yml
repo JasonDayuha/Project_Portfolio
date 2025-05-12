@@ -1,10 +1,12 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
+title: Jason A. Dayuha
+logo: ""
+description: >
+  *  Google Data Analytics Certification from Coursera. <br>
+  *  BS Mechanical Engineering. <br>
+  *  Proficient in Excel, R Programming, SQLite, and Tableau. <br> <br>
+
+  As a Google Data Analytics Certified professional with a Bachelor's degree in Mechanical Engineering, I possess a unique blend of technical and analytical skills. My proficiency in Excel, R Programming, SQLite, and Tableau enables me to seamlessly navigate through data, uncover insights, and deliver impactful visualizations. <br> <br>
+
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
